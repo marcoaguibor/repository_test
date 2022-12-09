@@ -1,2 +1,2 @@
 # repository_test
-Some coding I've made while studying
+this is just a beginner repository. do not consider this for professional purpouses
